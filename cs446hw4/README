@@ -1,0 +1,16 @@
+HW 4 CODE
+
+***************
+
+to run the code, execute the following from the command line:
+jupyter notebook
+
+open mnist.ipynb, circle.ipynb
+
+
+
+The following files are inlcuded:
+-NN_functions.py: Contains important functions for the Neural Network (THERE ARE TWO FUNCTIONS THAT MUST BE FILLED IN HERE
+-mnist.ipynb: Contains the code to run experiments on mnist dataset.
+-circle.ipynb: Contains the code to run experiments on circle dataset.
+
